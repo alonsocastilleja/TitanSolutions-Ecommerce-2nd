@@ -1,0 +1,122 @@
+[
+    {
+        "product": "August Smart Lock + Connect Wi-Fi",
+        "price": 153.98,
+        "Price": "price100-200",
+        "id": 1,
+        "description": "You are granted full control via the August doorlock app! You can keep your existing door padlock, it simply attaches to the door padlock. It automatically unlocks the front door when you arrive!",
+        "image": "images/Locks/augustlock.jpg",
+        "alt": "August Smart Lock + Connect Wi-Fi",
+        "tag": "Locks"
+    }, 
+    {
+        "product": "Yale Assure Lock Touchscreen",
+        "price": 267.85,
+        "Price": "price200+",
+        "id": 2,
+        "description": "You can create secure keycodes for each family member through our unique app. Having trouble remembering to lock the door at night? Create a daily schedule through the app to ensure your home is secure!",
+        "image": "images/Locks/nestlock.jpg",
+        "alt": "Yale Assure Lock Touchscreen",
+        "tag": "Locks"
+    },
+    {
+        "product": "Ultraloq UL3 Fingerprint Door Lock",
+        "price": 145.00,
+        "Price": "price100-200",
+        "id": 3,
+        "description": "We are selling the World's First 5-in-1 Smartphone Keyless Entry Smart Lock! Our smart lock is now enabled with a fingerprint scanner which allows homeowners to unlock their door without their keys.",
+        "image": "images/Locks/ultraloq.jpg",
+        "alt": "Ultraloq UL3 Fingerprint Door Lock",
+        "tag": "Locks"
+    },
+    {
+        "product": "Ring Spotlight Cam w/ Echo Dot",
+        "price": 417.99,
+        "Price": "price200+",
+        "id": 4,
+        "description": "The Ring video camera enables the user to connect with Alexa to monitor the outside of their front door. You are able to see, hear and speak with visitors at the fron door once an alert is sent. Equipped with night vision and live view! Lifetime theft protection!",
+        "image": "images/Cameras/ringcam.jpg",
+        "alt": "Ring Spotlight Cam w/ Echo Dot",
+        "tag": "Cameras"
+    },
+    {
+        "product": "Ring Video Doorbell 2",
+        "price": 169.00,
+        "Price":"price100-200",
+        "id": 5,
+        "description": "This bundle comes with Echo Dot which enables the user to connect Ring camera with Alexa. You are able to see, hear and speak with visitors at the fron door once an alert is sent. Equipped with night vision and live view!!",
+        "image": "images/Cameras/ringdoor.jpg",
+        "alt": "Ring Video Doorbell 2",
+        "tag":"Cameras"
+    },
+    {
+        "product": "Ring Indoor Cam with Echo Show 5",
+        "price": 149.98,
+        "Price":"price100-200",
+        "id": 6,
+        "description": "This bundle comes with the Ring indoor camera and an Echo show 5. You can watch over your entire home by creating motion zones through the Ring app.",
+        "image": "images/Cameras/ringindoor.jpg",
+        "alt": "Ring Indoor Cam with Echo Show 5",
+        "tag": "Cameras"
+    },
+    {
+        "product": "Nest 3rd Generation Thermostat",
+        "price": 249.00,
+        "Price":"price200+",
+        "id": 7,
+        "description": "The new 3rd generation Nest Learning Thermostat has a larger and sharper display. Added features include an energy efficient design, also including a 2 pack Wifi smart plug.",
+        "image": "images/Thermostats/nestthermo.jpg",
+        "alt": "Nest 3rd Generation Thermostat",
+        "tag": "Thermostats"
+    },
+    {
+        "product": "EcoBee4",
+        "price": 180.99,
+        "Price":"price100-200",
+        "id": 8,
+        "description": "The EcoBee4 comes with a built in Alexa voice service. You can adjust the temperature of your home with the sound of your voice. You are able to save an average of 23% on heating and cooling costs each year.!",
+        "image": "images/Thermostats/ecobee.jpg",
+        "alt": "EcoBee4",
+        "tag": "Thermostats"
+    },
+    {
+        "product": "Emerson SensiTouch",
+        "price": 126.73,
+        "Price":"price100-200",
+        "id": 9,
+        "description": "The thermostat is able to control the temperature of your by providing a user friendly interface. Works with Amazon Alexa, Google Assistant and Apple Homekit!.",
+        "image": "images/Thermostats/emerson.jpg",
+        "alt": "Emerson SensiTouch",
+        "tag": "Thermostats"
+    },
+    {
+        "product": "Honeywell Motion Detector",
+        "price": 38.29,
+        "Price":"price0-100",
+        "id": 10,
+        "description": " The motion detector by Honeywell is being offered at an affordable price. You are able to gain better control of your home by making sure there are not any foreign intruders. Works great on the outdoors with a range of 35 feet!",
+        "image": "images/Sensors/honeywell.jpg",
+        "alt": "Honeywell Motion Detector",
+        "tag": "Sensors"
+    },
+    {
+        "product": "Globe Electric Motion Detector",
+        "price": 27.99,
+        "Price": "price0-100",
+        "id": 11,
+        "description": "The globe can be attached to any desired area using the included mounting kit. You can control your home from anywhere using your phone, whether you are at the supermarket or at the gym. It can detect motion at a range of 20ft.",
+        "image": "images/Sensors/globe.jpg",
+        "alt": "Globe Electric Motion Detector",
+        "tag": "Sensors"
+    },
+    {
+        "product": "Samsung Door and Window Sensor",
+        "price": 22.99,
+        "Price": "price0-100",
+        "id": 12,
+        "description": " This Multi-purpose sensor can be placed in a room to turn off lights when there is no activity in the room. You can also place the product in your garage to be notified if you have any visitors, which then prompts the camera to record the activity.",
+        "image": "images/Sensors/samsungsensor.jpg",
+        "alt": "Samsung Door and Window Sensor",
+        "tag": "Sensors"
+    }
+]
